@@ -1,4 +1,4 @@
 # Newsb
 News Blogs
+Followed RESTful Routing (INDEX NEW CREATE SHOW EDIT UPDATE DELETE) 
 
-Followed RESTful Routing to make a new blog application (Node JS Express JS MongoDB)
